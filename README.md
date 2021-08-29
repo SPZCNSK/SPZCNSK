@@ -9,10 +9,12 @@
 - 😄 Pronomes: Ele/dele
 
 <div>
+<br>
 <a href="https://www.linkedin.com/in/juan-sapiezcinski/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
 </div>
+<br>
 
 <div>
 <a href="https://github.com/SPZCNSK/github-readme-stats">
