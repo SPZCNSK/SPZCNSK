@@ -18,9 +18,9 @@
 
 <div>
 <a href="https://github.com/SPZCNSK/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=SPZCNSK&bg_color=DEG,e96443,904e95&text_color=1e318c&icon_color=1e318c&show_icons=true&include_all_commits=true&theme=shades-of-purple" alt="SPZCNSK github stats" /></a>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=SPZCNSK&hide_border=true&bg_color=DEG,3e435b,22272E&text_color=ffd775&icon_color=f9ae00&show_icons=true&include_all_commits=true&theme=calm" alt="SPZCNSK github stats" /></a>
 <a href="https://github.com/SPZCNSK/github-readme-stats">  
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPZCNSK&layout=compact&theme=shades-of-purple" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPZCNSK&layout=compact&bg_color=DEG,3e435b,22272E&hide_border=true&theme=calm" />
 </a>
 <!-- <a>
   <a href="https://github.com/SPZCNSK/github-readme-stats">
